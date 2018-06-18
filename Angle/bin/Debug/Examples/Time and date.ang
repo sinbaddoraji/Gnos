@@ -1,0 +1,7 @@
+<main>
+    while(1==1){
+        print << remove(time,8,8) << " " + date|
+        wait 1000|
+        cls|
+    };
+</main>

@@ -1,0 +1,12 @@
+C:\Users\osinachi\Desktop\Gnos\Angle\bin\Release\Gnos.exe.config
+C:\Users\osinachi\Desktop\Gnos\Angle\bin\Release\Gnos.exe
+C:\Users\osinachi\Desktop\Gnos\Angle\bin\Release\Gnos.pdb
+C:\Users\osinachi\Desktop\Gnos\Angle\bin\Release\Antlr4.Runtime.Standard.dll
+C:\Users\osinachi\Desktop\Gnos\Angle\bin\Release\Antlr4.Runtime.Standard.xml
+C:\Users\osinachi\Desktop\Gnos\Angle\obj\Release\Entry.resources
+C:\Users\osinachi\Desktop\Gnos\Angle\obj\Release\Gnos.Properties.Resources.resources
+C:\Users\osinachi\Desktop\Gnos\Angle\obj\Release\Gnos.csproj.GenerateResource.Cache
+C:\Users\osinachi\Desktop\Gnos\Angle\obj\Release\Gnos.csproj.CoreCompileInputs.cache
+C:\Users\osinachi\Desktop\Gnos\Angle\obj\Release\Gnos.exe
+C:\Users\osinachi\Desktop\Gnos\Angle\obj\Release\Gnos.pdb
+C:\Users\osinachi\Desktop\Gnos\Angle\obj\Release\Gnos.csprojResolveAssemblyReference.cache

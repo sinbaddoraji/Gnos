@@ -1,0 +1,14 @@
+<main>
+    int a = 0;
+   int b = 1;
+ 
+   string ka = "";
+   while(1 == 1){
+       int k = a + b|
+       print <<ka << k << endl|
+       a = b|
+       b = k|
+       ka += " "|
+       wait 1000|
+   };
+</main>

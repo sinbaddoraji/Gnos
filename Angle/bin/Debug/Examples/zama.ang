@@ -1,0 +1,11 @@
+<main>
+    title "i will replace a with something else";
+    string what;
+    input >> what;
+    int len = %what;
+    replace(what,"a","samalamaduma \a");
+    print << what;
+    pause();
+
+</main>
+

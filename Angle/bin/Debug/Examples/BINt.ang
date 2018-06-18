@@ -1,0 +1,6 @@
+<main>
+    open(code.txt,aq);
+    split(aq,v," ");
+    print << v[1];
+    pause();
+</main>

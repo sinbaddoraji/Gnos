@@ -1,0 +1,29 @@
+<main>
+    int a = 0;
+    input >> a;
+    int man = a;
+    string dumper;
+    print << endl << endl << endl;
+    while(a != 0){
+        int g = a % 2|
+        a = a /2|
+        string y = ""|
+        tik()|
+        print << 2 << " | " << y + a + " R " << g + " \n"|
+        dumper += g|
+        y = ""|
+    };
+    reverse(dumper);
+    print << endl << endl << endl;
+    print << man << " to base 2 = " << dumper << endl;
+    pause();
+</main>
+
+<tik>
+    int j = %man% - %a%;
+    int dum = 0;
+    while(dum < j){
+        y += " "|
+        dum++|
+    };
+</tik>

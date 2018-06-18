@@ -1,0 +1,7 @@
+<main>
+    input >> ra;
+    reverse(ra);
+    print << ra << endl;
+    pause();
+    main();
+</main>

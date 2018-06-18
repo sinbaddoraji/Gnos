@@ -1,0 +1,19 @@
+<main>
+    string[] ra = "ra","re","rama","rakin";
+    ra += "raji","kobi","rajah",ra[0];
+    swap(ra,0,2);
+    int yami = %ra - 1;
+    for(int i = 0|i < yami|i++){
+        print << ra[i] << endl;
+    };
+    
+    int[] cube = 1,2,3,4,5,6,7,8;
+    cube += 9,10;
+    reverse(cube);
+    int len = %cube - 1;
+    for(int i = 0|i < len|i++){
+        print << cube[i] << endl|
+    };
+    
+    pause();
+</main> 

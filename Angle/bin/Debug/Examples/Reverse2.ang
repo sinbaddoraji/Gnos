@@ -1,0 +1,5 @@
+<main>
+    input >> a;
+    pause(reverse(a));
+    main();
+</main>

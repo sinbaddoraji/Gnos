@@ -1,0 +1,6 @@
+<main>
+    input ra;
+    print << upper(ra) << endl;
+    print << lower(ra);
+    pause(endl);
+</main>

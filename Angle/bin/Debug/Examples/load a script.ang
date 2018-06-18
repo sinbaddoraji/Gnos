@@ -1,0 +1,5 @@
+<main>
+    print << "Script file name : ";
+    input >> a;
+    load a;
+</main>

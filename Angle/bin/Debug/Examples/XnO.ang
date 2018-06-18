@@ -1,0 +1,117 @@
+<main>
+    string a = "1";
+    string b = "2";
+    string c = "3";
+    string d = "4";
+    string e = "5";
+    string f = "6";
+    string g = "7";
+    string h = "8";
+    string i = "9";
+    string yui = "X";
+    int count = 0;
+    siza();
+    pause();
+</main>
+<show>
+    print << "    |     |" << endl;
+    print << "    |     |" << endl;
+    print << " " << a << "  |  " << b << "  |  " << c << endl;
+    print << "____|_____|_____" << endl;
+    print << " " << d << "  |  " << e << "  |  " << f << endl;
+    print << "____|_____|_____" << endl;
+    print << " " << g << "  |  " << h << "  |  " << i << endl;
+    print << "    |     |" << endl;
+    print << "    |     |" << endl;
+    print << endl << endl;
+    count++;
+</show>
+<siza>
+    show();
+    print << "choice >> ";
+    char t;
+    input >> t;
+    switch(t){
+        case '1':
+            one()|
+        break::
+        case '2':
+            two()|
+        break::
+        case '3':
+            three()|
+        break::
+        case '4':
+            four()|
+        break::
+        case '5':
+            five()|
+        break::
+        case '6':
+            six()|
+        break::
+        case '7':
+            seven()|
+        break::
+        case '8':
+            eight()|
+        break::
+        case '9':
+            nine()|
+        break::
+    };
+    if(yui == "X"){string yui = "O"|}
+    else{string yui = "X"|};
+    if(a != "1" && b != "2" && c != "3" && d != "4" && e != "5" && f != "6" && g != "7" && h != "8" && i != "9"){print << "game over!"|pause()|exit()|};
+    cls();
+    siza();
+</siza>
+
+<one>
+    if(a != yui){
+       a = yui| 
+    };
+</one>
+
+<two>
+    if(b != yui){
+        string b = yui| 
+    };
+</two>
+
+<three>
+    if(c != yui){
+        c = yui| 
+    };
+</three>
+<four>
+    if(d != yui){
+        string d = yui| 
+    };
+</four>
+<five>
+    if(e != yui){
+        string e = yui| 
+    };
+</five>
+<six>
+    if(f != yui){
+        f = yui| 
+    };
+</six>
+<seven>
+    if(g != yui){
+        string g = yui| 
+    };
+</seven>
+<eight>
+    if(h != yui){
+        string h = yui| 
+    };
+</eight>
+
+<nine>
+    if(i != yui){
+        string i = yui| 
+    };
+</nine>

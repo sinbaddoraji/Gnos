@@ -1,0 +1,16 @@
+<main>
+    t += hello() + well();
+    t();
+    pause(" hello i guess");
+</main>
+
+<hello>
+    print << "i wont say it";
+</hello>
+<well>
+    print << " should i? well";
+</well>
+<t>
+    pause("welcome press any key to continue");
+    cls();
+</t>

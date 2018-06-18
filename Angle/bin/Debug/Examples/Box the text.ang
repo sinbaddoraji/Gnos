@@ -1,0 +1,48 @@
+<mai>
+    input >> txt;
+    int len = 0;
+    split(txt,bits," "); 
+    int count = %bits - 1;
+    for(int i = 0|i < count|i++){
+        chk|
+    };
+    len += 4;
+    for(int i = 0|i < len|i++){
+        print << "*"|
+    };
+    
+    print << endl;
+    
+    for(int i = 0|i < count|i++){
+        print << "*" << bits[i]|
+        int spa = %bits[i] + 1|
+        space|
+        print << "*"|
+        print << endl|
+    };
+    for(int i = 0|i < len|i++){
+        print << "*"|
+    };
+    pause();
+</mai>
+<space>
+    int spe = len - spa - 1;   
+    for(int y = 0|y < spe|y++){
+        print << " "|
+    };
+    if(y == spe){
+        print << " "|
+    };
+    
+</space>
+<chk>
+    if(%bits[i] > len){
+        len = %bits[i]|
+    };
+    
+</chk>
+<main>
+    while(true==true){
+        mai|
+    };
+</main>

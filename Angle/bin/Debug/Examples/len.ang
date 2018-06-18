@@ -1,0 +1,6 @@
+<main>
+    input >> ra;
+    int a = %ra + 1;
+    print << a << endl;
+    main();
+</main>

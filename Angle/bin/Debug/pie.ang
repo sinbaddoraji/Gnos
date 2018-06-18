@@ -1,0 +1,15 @@
+<main>
+    int kin = 43 % 2;
+    print << kin << "\n";
+    string a = "ka   a";
+    string v = "ka" + "   " + "a";
+    string k = "aa";
+    string g = "t";
+    print << k;
+    if(k != g){print << "\nwow\n"};
+    if(a == v){print << "\nwow tho"|};
+    if("oh mu" == "oh mu"){
+        pause()|
+    };
+    pause();
+</main>

@@ -1,0 +1,17 @@
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\GnosTests.dll
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\GnosTests.pdb
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\Gnos.exe
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\Gnos.pdb
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\Gnos.xml
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\Gnos.exe.config
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ra\Desktop\Gnos\GnosTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ra\Desktop\Gnos\GnosTests\obj\Debug\GnosTests.csprojResolveAssemblyReference.cache
+C:\Users\ra\Desktop\Gnos\GnosTests\obj\Debug\GnosTests.csproj.CoreCompileInputs.cache
+C:\Users\ra\Desktop\Gnos\GnosTests\obj\Debug\GnosTests.dll
+C:\Users\ra\Desktop\Gnos\GnosTests\obj\Debug\GnosTests.pdb

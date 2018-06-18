@@ -1,0 +1,5 @@
+<main>
+    open("Angle Syntax.txt",ra);
+    print << ra;
+    pause(endl);
+<main>

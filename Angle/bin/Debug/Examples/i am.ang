@@ -1,0 +1,4 @@
+<main>
+    string y = " i am ra";
+    pause(replace(y,"ra","the maker of angle"));
+</main> 

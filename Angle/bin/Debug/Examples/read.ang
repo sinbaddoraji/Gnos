@@ -1,0 +1,8 @@
+<main>
+    open("gim.txt",kob);
+    print << kob;
+    write("new.txt","The new info is " + kob);
+    fileinfo kaba = "gim.txt"
+    print << kaba.fullname;
+    pause();
+</main>

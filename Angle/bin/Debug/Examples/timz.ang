@@ -1,0 +1,17 @@
+<main>
+    int kami = 9;
+    kami = kami + 2;
+    kami += 1;
+    print << kami;
+    string raji = " was";
+    raji += " i 5 years ago" + endl;
+    int year = 2001 + 12 + 4;
+    print << raji << " this is " << year << endl;
+    pause();
+    int y = 0;
+    while(y < 10){
+        print << y << endl|
+        y++|
+    };
+    pause();
+</main>

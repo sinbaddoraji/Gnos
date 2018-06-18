@@ -1,0 +1,3 @@
+<main>
+    pause(swap("kami",0,2));
+</main>

@@ -1,0 +1,10 @@
+<main>
+    double a = 3.2;
+    double t = 32.8;
+    double vi = 0;
+    double d = (0*32.8)+(0.5*3.2*(32.8^2));
+    print << "An airplane accelerates down a runway at 3.20 m/s2 for 32.8 s until is finally lifts off the ground.\nDetermine the distance traveled before takeoff. \n\n" << endl;
+    print << "d = vi*t + 0.5*a*t2";
+    print << "d = " << d << endl;
+    pause();
+</main>

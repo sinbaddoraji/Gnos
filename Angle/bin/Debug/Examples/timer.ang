@@ -1,0 +1,28 @@
+wait uses mili seconds 1000 mili seconds issa second
+
+<main>
+    int h = 0;
+    int m = 0;
+    int s = 0;
+    string pad = "";
+   string pad1 = "";
+   string pad2 = "";
+   while(r == r){
+       time()|
+   };
+    
+</main>
+0:0:0
+<time>
+    cls();
+    if(h < 10){pad = "0"|
+    }else{pad = ""|};
+    if(m < 10){pad1 = 0|}else{pad1 = ""|};
+    if(s < 10){pad2 = 0|}else{pad2 = ""|};
+    print << pad << h << ":" << pad1 << m << ":" <<pad2 << s;
+    wait 1000;
+    s++;
+    if(s == 60){m++|s = 0|};
+    if(m == 60){h++|m = 0|};
+    
+</time>

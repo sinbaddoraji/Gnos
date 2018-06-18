@@ -1,0 +1,8 @@
+<main>
+    dir("c:\",kiba);
+    int len = %kiba - 1;
+    for(int i = 0|i < len|i++){
+        print << kiba[i] << endl|
+    };
+    pause("done");
+</main>

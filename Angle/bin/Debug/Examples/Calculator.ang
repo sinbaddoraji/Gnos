@@ -1,0 +1,75 @@
+<main>
+    cls();
+    title "Calc";
+    print << "(1) Addition"<<endl;
+    print << "(2) Subtraction"<<endl;
+    print << "(3) Multiplication"<<endl;
+    print << "(4) Division"<<endl;
+    print << "Choice >> ";
+    char p;
+    input >> p;
+    if(p == 1){
+        Addition()|
+    };
+    if(p == 2){
+        Subtraction()|
+    };
+    if(p == 3){
+        Multiplication()|
+    };
+    if(p == 4){
+        Division()|
+    };
+    cls();
+    main();
+</main>
+
+<Addition>
+    title "Addition";
+    print << "addition!!";
+    print << endl << "First number : ";
+    int a;
+    input >> a;
+    print << "Seecond number : ";
+    int b;
+    input >> b;
+    int c = a + b;
+    print << " " + endl << "answer is  " << c << endl;
+    pause();
+</Addition>
+
+<Subtraction>
+    print << endl << "First number : ";
+    int a;
+    input >> a;
+    print << "Seecond number : ";
+    int b;
+    input >> b;
+    int c = a - b;
+    print << " " + endl << "answer is  " << c << endl;
+    pause();
+</Subtraction>
+
+<Multiplication>
+    print << endl << "First number : ";
+    int a;
+    input >> a;
+    print << "Seecond number : ";
+    int b;
+    input >> b;
+    int c = a * b;
+    print << " " + endl << "answer is  " << c<< endl;
+    pause();
+</Multiplication>
+
+<Division>
+    print << endl << "First number : ";
+    int a;
+    input >> a;
+    print << "Seecond number : ";
+    int b;
+    input >> b;
+    int c = a / b;
+    print << " " + endl << "answer is  " << c << endl;
+    pause();
+</Division>

@@ -1,0 +1,20 @@
+<main>
+    input >> ra;
+    int dumper = 0;
+    int size = %ra - 1;
+    for(int i = 0|i < size|i++){
+        count()|
+    };
+    print << dumper << endl;
+    pause();
+    main();
+</main>
+
+<count>
+    char man = ra[i];
+    if(man == 'a'){dumper++|};
+    if(man == 'e'){dumper++|};
+    if(man == 'i'){dumper++|};
+    if(man == 'u'){dumper++|};
+    if(man == 'o'){dumper++|};
+</count>

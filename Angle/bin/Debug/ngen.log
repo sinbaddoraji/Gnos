@@ -1,0 +1,29 @@
+﻿To learn about increasing the verbosity of the NGen log files please see http://go.microsoft.com/fwlink/?linkid=210113
+12/17/2017 12:58:58.986 [12916]: Command line: ngen 
+12/17/2017 12:59:19.345 [12384]: Command line: ngen Gnos.exe 
+12/17/2017 12:59:19.501 [12384]: ngen returning 0x00000000
+12/17/2017 12:59:27.220 [11664]: Command line: ngen install Gnos.exe 
+12/17/2017 12:59:27.408 [11664]: All compilation targets are up to date.
+12/17/2017 12:59:27.408 [11664]: ngen returning 0x00000000
+12/17/2017 13:00:12.415 [488]: Command line: ngen install Gnos.exe 
+12/17/2017 13:00:13.525 [488]: Access is denied. (Exception from HRESULT: 0x80070005 (E_ACCESSDENIED))
+12/17/2017 13:00:13.525 [488]: ngen returning 0xffffffff
+12/17/2017 13:00:29.533 [1108]: Command line: ngen install Gnos.exe 
+12/17/2017 13:00:30.643 [1108]: Access is denied. (Exception from HRESULT: 0x80070005 (E_ACCESSDENIED))
+12/17/2017 13:00:30.643 [1108]: ngen returning 0xffffffff
+12/17/2017 13:01:37.199 [10672]: Command line: C:\Users\ra\Desktop\Gnos\Angle\bin\Debug\ngen.exe install Gnos.exe 
+12/17/2017 13:01:37.418 [10672]: All compilation targets are up to date.
+12/17/2017 13:01:37.418 [10672]: ngen returning 0x00000000
+12/17/2017 13:01:54.866 [3268]: Command line: C:\Users\ra\Desktop\Gnos\Angle\bin\Debug\ngen.exe install Gnos.exe 
+12/17/2017 13:01:55.054 [3268]: All compilation targets are up to date.
+12/17/2017 13:01:55.085 [3268]: ngen returning 0x00000000
+12/17/2017 13:02:07.594 [8204]: Command line: C:\Users\ra\Desktop\Gnos\Angle\bin\Debug\ngen.exe install Gnos.exe 
+12/17/2017 13:02:07.860 [8204]: All compilation targets are up to date.
+12/17/2017 13:02:07.860 [8204]: ngen returning 0x00000000
+12/17/2017 21:12:46.764 [3712]: Command line: C:\Users\ra\Desktop\Gnos\Angle\bin\Debug\ngen.exe 
+12/17/2017 21:12:52.365 [6512]: Command line: C:\Users\ra\Desktop\Gnos\Angle\bin\Debug\ngen.exe install Gnos.exe 
+12/17/2017 21:12:53.319 [6512]: 1>    Compiling assembly C:\Users\ra\Desktop\Gnos\Angle\bin\Debug\Gnos.exe (CLR v4.0.30319) ...
+12/17/2017 21:12:54.178 [6512]: ngen returning 0x00000000
+12/17/2017 22:53:21.146 [9584]: Command line: C:\Users\ra\Desktop\Gnos\Angle\bin\Debug\ngen.exe install Gnos.exe 
+12/17/2017 22:53:21.771 [9584]: 1>    Compiling assembly C:\Users\ra\Desktop\Gnos\Angle\bin\Debug\Gnos.exe (CLR v4.0.30319) ...
+12/17/2017 22:53:22.583 [9584]: ngen returning 0x00000000

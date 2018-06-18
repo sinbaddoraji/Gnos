@@ -1,0 +1,10 @@
+<main>
+    string f = open("de.txt");
+    split(f,n,"\n");
+    int lim = %n - 1;
+    for(int i = 0|i < lim|i++){
+        string current = n[i]|
+        work_(current)|
+    };
+</main>
+

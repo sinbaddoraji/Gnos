@@ -1,0 +1,16 @@
+<main>
+    int k = 0;
+    while(k < 100){
+        print << k << " boy" << endl|k++|
+        tiko()|
+    };
+    pause();
+</main>
+<tiko>
+    int a = 20;
+    int b = 50;
+    int c = 99;
+    if(k == a){print << "wow "|};
+    if(k == b){print << "really powerful "|};
+    if(k == b){print << "i'm done "|}
+</tiko>

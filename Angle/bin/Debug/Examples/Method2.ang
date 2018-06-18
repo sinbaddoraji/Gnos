@@ -1,0 +1,13 @@
+<main>
+    hello();
+
+    let hello() => {
+        print << " ok hello world"|
+        pause()|
+    };
+    hello();
+</main>
+
+<hello>
+    print << "i wont say it";
+</hello>

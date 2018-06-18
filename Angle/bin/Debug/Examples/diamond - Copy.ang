@@ -1,0 +1,23 @@
+<main>
+    string zama = "    ";
+    string coie = "*";
+    int b = 0;
+    while(b < 5){
+        print << zama << coie << endl|
+        remove(zama,0,1)|
+        coie += "**"|
+        b++|
+    };
+    string lai = "*******";
+    string space = " ";
+    int a = 0;
+    while(a < 4){
+        print << space << lai << endl|
+        remove(lai,0,2)|
+        space += " "|
+        a++|
+    };
+    wait 1000;
+    main();
+pause();
+</main>

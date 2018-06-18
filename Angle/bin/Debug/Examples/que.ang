@@ -1,0 +1,7 @@
+<main>
+    input >> ra;
+    if(ra == "osinachi"){
+        print << "oh welcome ra\n"|
+        pause()|
+    };
+</main>

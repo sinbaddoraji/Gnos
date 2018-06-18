@@ -1,0 +1,16 @@
+<main>
+    string[] ya = "";
+    katon();
+<main>
+
+<katon>
+    cls();
+    int ter = %ya - 1;
+    for(int i = 1|i < ter|i++){
+        print << ya[i] << endl|
+    };
+    input >> d;
+    ya += d;
+    katon();
+
+</katon>

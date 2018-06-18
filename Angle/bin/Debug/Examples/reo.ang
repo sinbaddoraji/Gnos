@@ -1,0 +1,8 @@
+<main>
+    string t = "hamaa3";
+    int d = 4;
+    string lord = "wow";
+    if(lord == "wow" && d == 3 || t == "hamaa3"){
+        pause()|
+    };
+</main>

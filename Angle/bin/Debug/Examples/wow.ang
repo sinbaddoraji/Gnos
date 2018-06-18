@@ -1,0 +1,7 @@
+<main>
+    string[] names = "osinachi","raji","kobi";
+    names[1] = "sinbaddo raji";
+    names[0] = "Kama" + "kaze";
+    print << names[0];
+    pause();
+</main>

@@ -1,0 +1,12 @@
+<main>
+    for(int k = 0|k < 100|k++){
+        print << k << " boy" << endl|
+        tiko()|
+    };
+    pause();
+</main>
+<tiko>
+    if(k == 20){print << " wow "|};
+    if(k == 50){print << "really powerful "|};
+    if(k == 99){print << "i'm done "|}
+</tiko>

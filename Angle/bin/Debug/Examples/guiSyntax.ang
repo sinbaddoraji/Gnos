@@ -1,0 +1,12 @@
+<main>
+    Application.Run(Form1());
+</main>
+
+<Form1>(using form)
+    Click += bClick;
+    
+</Form1>
+
+<bClick>
+
+</bClick>

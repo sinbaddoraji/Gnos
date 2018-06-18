@@ -1,0 +1,17 @@
+<main>
+    print << "text >> ";
+    input >> what;
+    split(what,kai," ");
+    string output = "";
+    int ging = %kai - 1;
+    for(int i = 0|i < ging|i++){
+        string m = kai[i]|
+        int last = %m - 1|
+        swap(m,0,last)|
+        m += "ay "|
+        print << m|
+    };
+    pause();
+    main();
+</main>
+

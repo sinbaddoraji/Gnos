@@ -1,0 +1,4 @@
+print << "osinachi is ra"
+pause()
+string g = "osinachi " + "more like seiji"
+pause(g)

@@ -1,0 +1,4 @@
+<main>
+    print << "use wow.ang to learn the syntax" << endl;
+    pause();
+</main>

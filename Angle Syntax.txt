@@ -1,0 +1,90 @@
+print << "vlah"  << "vlah"
+input 
+
+string
+int 
+double
+long
+float
+bool
+and the arrays
+if
+switch
+pause()
+pause("displayed string")
+
+
+//loops
+for(int i = 0|i < variable|i++){code};
+while(i < variable){code};
+#number of repetitions::{code};
+
+//string manipulation
+
+split(variable,ArrayName,Spliter)
+replace(variable,a,b)
+remove(variable,start,stop)
+swap(variable,a,b)
+reverse(variable)
+lower(string variable)
+upper(string variable)
+join(Array variable,Joining string)
+sol(expression)//solve expression
+name(value)//get variable name of value
+date()//show date
+time()//show time
+year()
+day()
+month()
+
+
+//io
+open(FileName,Variable)
+
+open(FileName) or read(FileName) // get file data
+
+write(FileName,Data) // write file
+
+readlines(FileName,variable)
+
+getfiles(DIR,variable)//put files into array
+
+getfiles()//print all files in current directory
+
+//dir()//print all folders in current directories
+
+//dir(location)//print all folders in said directory
+
+//dir location //print all folders in said directory
+
+//cd(directory name) // change current directory to the dir name
+
+//cd directory name // change current directory to the dir name
+
+delete(variable)
+
+create(variable)//create folder
+
+
+
+//rules
+method names should be in lowercase
+methods can be treated as variables (+= can be used);
+methods can be called like m() or m
+
+//console manipulation
+bg color --change background
+fg color --change foreground
+
+
+//processes
+start process or start(process)
+load file.ang //loads file into angle
+
+//method manipulation
+let hello() => {
+        print << " ok hello world"|
+        pause()|
+    };
+work(code)//intepretes angle code
+work_(variable cointaining code)//intepretes angle code

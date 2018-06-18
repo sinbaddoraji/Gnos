@@ -1,0 +1,37 @@
+<main>
+    cls();
+    print << "(1) Addition"<<endl;
+    print << "(2) Subtraction"<<endl;
+    print << "(3) Multiplication"<<endl;
+    print << "(4) Division"<<endl;
+    print << "Choice >> ";
+    char p;
+    input >> p;
+    cls();
+    print << endl << "First number : ";
+    int a;
+    input >> a;
+    print << "Seecond number : ";
+    int b;
+    input >> b;
+    switch(p){
+        case '1':
+            int c = a + b|
+            print << " " + endl << "answer is  " << c << endl|
+        break::
+        case '2':
+            int c = a - b|
+            print << " " + endl << "answer is  " << c << endl|
+        break::
+        case '3':
+            int c = a * b|
+            print << " " + endl << "answer is  " << c << endl|
+        break::
+        case '4':
+            int c = a / b|
+            print << " " + endl << "answer is  " << c << endl|
+        break::
+    };
+    pause();
+    main();
+</main>

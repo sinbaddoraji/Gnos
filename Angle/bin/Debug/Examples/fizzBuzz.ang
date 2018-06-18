@@ -1,0 +1,35 @@
+<main>
+    int a = 1;
+    while(a < 101){
+        check()|
+        a++|
+    };
+    pause();
+</main>
+
+<check>
+    int d = a%3;
+    int v = a%5;
+
+    if(d == 0 && v == 0){
+        print << "fizz buzz" << endl|
+    }else{
+        fi()|
+    };
+</check>
+
+<fi>
+    if(v == 0){
+        print << "buzz" << endl|
+    }else{
+        d()|
+    };
+</fi>
+
+<d>
+     if(d == 0){
+        print << "fizz" << endl|
+    }else{
+        print << a << endl|
+    };
+</d>

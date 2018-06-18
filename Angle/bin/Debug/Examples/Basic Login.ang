@@ -1,0 +1,64 @@
+<main>
+    open("users.txt",kem);
+    int f = %kem;
+    if(f < 1){
+        crea()|
+        print << ab  << "'s Account has been created\n"|
+        pause()|
+    }else{
+            login()|
+    };
+    
+
+</main>
+
+<lan>
+    print << "Name >> ";
+    input >> ab;
+    print << "password >> ";
+    input >> b;
+    string king = ab + " " + b;
+    pause();
+    readlines("users.txt",kama);
+    int f = %kama - 1;
+    for(int g = 0|g < f|g++){
+       d()|
+    };
+</lan>
+
+<d>
+    string t = kama[g];
+    print << t;
+    pause;
+    if(king == t){
+        print << "welcome"|
+        pause()|
+    };
+</d>
+
+<login>
+   print << "(1) Create Account\n(2) Login\n";
+    char ag;
+    input >> ag;
+    switch(ag){
+        case '1':
+            crea()|
+            cls()|
+            login()|
+        break::
+        case '2':
+            lan()|
+        break::
+    };
+</login>
+
+<crea>
+    cls();
+    print << "Name >> ";
+    input >> ab;
+    print << "password >> ";
+    input >> b;
+    open("users.txt",ke);
+    ke += "\n" + ab + " " + b;
+    write("users.txt",ke);
+</crea>

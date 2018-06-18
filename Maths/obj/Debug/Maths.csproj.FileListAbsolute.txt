@@ -1,0 +1,9 @@
+C:\Users\ra\source\repos\Angle\Maths\bin\Debug\Maths.exe.config
+C:\Users\ra\source\repos\Angle\Maths\bin\Debug\Maths.exe
+C:\Users\ra\source\repos\Angle\Maths\bin\Debug\Maths.pdb
+C:\Users\ra\source\repos\Angle\Maths\obj\Debug\Maths.csprojResolveAssemblyReference.cache
+C:\Users\ra\source\repos\Angle\Maths\obj\Debug\Maths.Properties.Resources.resources
+C:\Users\ra\source\repos\Angle\Maths\obj\Debug\Maths.csproj.GenerateResource.Cache
+C:\Users\ra\source\repos\Angle\Maths\obj\Debug\Maths.csproj.CoreCompileInputs.cache
+C:\Users\ra\source\repos\Angle\Maths\obj\Debug\Maths.exe
+C:\Users\ra\source\repos\Angle\Maths\obj\Debug\Maths.pdb
